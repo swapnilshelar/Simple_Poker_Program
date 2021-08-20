@@ -17,9 +17,9 @@ Number of players
 
 Function
 
-Shuffle Deck
-Dispatch Cards
-Show Cards and Find Out Winner
+1.Shuffle Deck
+2.Dispatch Cards
+3.Show Cards and Find Out Winner
     
         1-   All same number card
         2-   Sequence with Color 
